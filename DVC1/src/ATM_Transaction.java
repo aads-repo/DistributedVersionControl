@@ -44,6 +44,7 @@ public class ATM_Transaction
                 case 3:
                 System.out.println("Balance : "+balance);
                 System.out.println("");
+                
                 break;
  
                 case 4:
@@ -51,4 +52,8 @@ public class ATM_Transaction
             }
         }
     }
+}
+class test{
+	
+	
 }
